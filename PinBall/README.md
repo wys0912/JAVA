@@ -8,3 +8,5 @@
 $ javac PinBall.java
 $ java PinBall
 ```
+
+按动键盘左键和右键控制球拍左右移动，使小球不落地
