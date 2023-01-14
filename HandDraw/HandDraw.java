@@ -1,5 +1,3 @@
-package awt.HandDraw;
-
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.awt.event.*;
