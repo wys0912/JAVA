@@ -5,5 +5,5 @@
 运行方式：
 ```shell
 $ javac HandDraw.java
-$ java HandDrae
+$ java HandDraw
 ```
